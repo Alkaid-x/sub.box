@@ -1,0 +1,40 @@
+# Node
+node_modules/
+.npm/
+
+# Logs
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+build/
+dist/
+
+# React Native
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/.externalNativeBuild/
+android/app/src/debug/obj/
+android/app/src/release/obj/
+android/gradle/
+android/.gradle/
+android/local.properties
+ios/build/
+ios/Pods/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Misc
+*.apk
+*.aab
+*.ipa
+*.xcode.env.local
+
